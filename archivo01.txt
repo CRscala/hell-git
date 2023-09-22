@@ -7,3 +7,4 @@ segunda linea
 tercera linea
 
 >>>>>>> nuevarama02
+cambios para entender git commit -a -m
