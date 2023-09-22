@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 primera linea
 segunda linea
+=======
+borro la primera linea
+segunda linea
+tercera linea
+
+>>>>>>> nuevarama02
