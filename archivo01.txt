@@ -12,3 +12,5 @@ tercera linea
 
 >>>>>>> nuevarama02
 cambios para entender git commit -a -m
+
+"SE AGREGA OTRA LINEA"
