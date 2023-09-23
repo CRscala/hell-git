@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-primera linea
+primera linea , practicando coflicto en git se esta trabajando en la rama nuevarama03
 segunda linea
 =======
 borro la primera linea
