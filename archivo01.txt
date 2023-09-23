@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 primera linea , practicando coflicto en git se esta trabajando en la rama nuevarama03
+=======
+primera linea, nuevo parrafo para practicar los conflictos en git
+>>>>>>> master
 segunda linea
 =======
 borro la primera linea
@@ -7,3 +11,4 @@ segunda linea
 tercera linea
 
 >>>>>>> nuevarama02
+cambios para entender git commit -a -m
