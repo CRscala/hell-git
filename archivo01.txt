@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-primera linea
+primera linea, nuevo parrafo para practicar los conflictos en git
 segunda linea
 =======
 borro la primera linea
