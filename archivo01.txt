@@ -1,5 +1,8 @@
 <<<<<<< HEAD
-<<<<<<< HEAD
+<<<<<<< HEAD ; "ESTA LINEA ES PARA SALUDAR LA SUBIDA A GITHUB"
+SEGUIMOS AVANZANDO
+
+-*-*-*-*-*-
 primera linea , practicando coflicto en git se esta trabajando en la rama nuevarama03
 =======
 primera linea, nuevo parrafo para practicar los conflictos en git
